@@ -1,0 +1,8 @@
+{
+  "error": "ok",
+  "result": {
+    "address": "badjoras",
+    "pubkey": "pub_key",
+    "dest_tag": "dest_tag"
+  }
+}

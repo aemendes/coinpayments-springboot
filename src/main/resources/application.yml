@@ -1,0 +1,9 @@
+coinpayments:
+  url: https://www.coinpayments.net/api.php
+  version: 1
+  public-key: <YOUR-PUBLIC-KEY>
+  private-key: <YOUR-PRIVATE-KEY>
+spring:
+  jackson:
+    deserialization:
+      ACCEPT_EMPTY_ARRAY_AS_NULL_OBJECT: true

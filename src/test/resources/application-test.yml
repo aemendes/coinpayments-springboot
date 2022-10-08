@@ -1,0 +1,5 @@
+coinpayments:
+  url: http://localhost:9561
+  version: 1
+  public-key: PUB_KEY
+  private-key: PRIV_KEY
